@@ -32,6 +32,5 @@ This project is a full-stack web application built using the MERN stack (MongoDB
 ## 🚀 Installation and Setup:
 
 1. **Clone the repository:**
-   ```bash
- git clone https://github.com/Paddu-123/Learn-Hub.git
+      git clone https://github.com/Paddu-123/Learn-Hub.git
 
